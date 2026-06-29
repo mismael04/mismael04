@@ -3,7 +3,7 @@
 I am a Data Analyst passionate about transforming complex data into clear business insights. I specialize in turning messy datasets into interactive dashboards, building scalable ELT data pipelines, and utilizing AI to deliver faster, smarter results.
 
 ### 🛠️ Tech Stack
-* **Languages & Databases:** SQL, Python, MySQL, PostgreSQL, R, Excel
+* **Languages & Databases:** SQL, Python, MySQL, PostgreSQL, R
 * **Data Visualization:** Power BI, Tableau
 * **Data Engineering & Cloud:** dbt Core, Snowflake
 
