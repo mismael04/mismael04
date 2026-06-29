@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, my name is Muhammad Ismael! 👋
 
-<!--
-**mismael04/mismael04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Data Analyst passionate about transforming complex data into clear business insights. I specialize in turning messy datasets into interactive dashboards, building scalable ELT data pipelines, and utilizing AI to deliver faster, smarter results.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+* **Languages & Databases:** SQL, Python, MySQL, PostgreSQL
+* **Data Visualization:** Power BI, Tableau
+* **Data Engineering & Cloud:** dbt Core, Snowflake
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+* **[Automotive Market Dashboard]([link-to-your-repo](https://github.com/mismael04/Automotive-Market-Intelligence-Dashboard-Analysis)):** Analyzed and transformed a 550,000+ row vehicle sales dataset to discover transaction volume trends and market share.
+* **[E-commerce ELT Pipeline]([link-to-your-repo](https://github.com/mismael04/Data-Stack-ELT-Pipeline)):** Developed a modular 3-stage transformation pipeline using dbt Core and Snowflake with automated data quality testing.
+* **[AI Data Analyst Agent]([link-to-your-repo](https://github.com/mismael04/AI-Data-Analyst-Agent)):** Built an AI-powered analytics tool converting natural language into sql queries and then into insights & visuals.
+
+### 📫 Let's Connect
+* **LinkedIn:** [linkedin.com/in/muhammad-ismael-uf](https://linkedin.com/in/muhammad-ismael-uf)
