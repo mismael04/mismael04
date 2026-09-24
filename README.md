@@ -1,16 +1,36 @@
-# Hi, my name is Muhammad Ismael! 👋
+# Hi, my name is Ismael! 👋
 
-I am a Data Analyst passionate about transforming complex data into clear business insights. I specialize in turning messy datasets into interactive dashboards, building scalable ELT data pipelines, and utilizing AI to deliver faster, smarter results.
+I am an **AWS Certified Data Engineer** focused on building scalable cloud data platforms, modern data lakehouses, and streaming data & ML systems.
+
+I am currently pursuing the **AWS Certified Machine Learning Engineer - Associate** certification.
+
+I also build and lead technical projects through **Aspyr** and **Medes**, focusing on data engineering, software engineering, automated workflows, and AI-powered systems.
 
 ### 🛠️ Tech Stack
-* **Languages & Databases:** SQL, Python, MySQL, PostgreSQL, R
-* **Data Visualization:** Power BI, Tableau
-* **Data Engineering & Cloud:** dbt Core, Snowflake
+
+**Cloud & Infrastructure**
+
+* AWS: S3, Kinesis Data Firehose, Glue, SageMaker, Lake Formation, Redshift Serverless, Athena, Step Functions, CloudTrail, IAM
+* Terraform (Infrastructure as Code)
+* Git, GitHub, GitHub Actions
+
+**Data Engineering**
+
+* Python, PySpark, SQL
+* PostgreSQL, MySQL, Snowflake
+* dbt Core
 
 ### 🚀 Featured Projects
-* **[Automotive Market Intelligence Analysis & Dashboard](https://github.com/mismael04/Automotive-Market-Intelligence-Dashboard-Analysis):** Analyzed and transformed a 550,000+ row vehicle sales dataset to discover transaction volume trends and market share.
-* **[E-commerce ELT Pipeline](https://github.com/mismael04/Data-Stack-ELT-Pipeline):** Developed a modular 3-stage transformation pipeline using dbt Core and Snowflake with automated data quality testing.
-* **[AI Data Analyst Agent](https://github.com/mismael04/AI-Data-Analyst-Agent):** Built an AI-powered analytics tool converting natural language into sql queries and then into insights & visuals.
+
+**[Streaming E-Commerce Recommendation & ML Architecture](https://github.com/mismael04/streaming-ecommerce-recommendation-ml)**
+Built an end-to-end AWS streaming data and MLOps architecture for simulated e-commerce events using **Kinesis Data Firehose, PySpark, AWS Glue, Amazon S3, and SageMaker**. Implemented collaborative filtering with **TruncatedSVD**, packaged the inference artifact, and deployed it to a **real-time SageMaker endpoint** using **Terraform**.
+
+**[Enterprise E-Commerce Data Lakehouse & Governance](https://github.com/mismael04/enterprise-lakehouse-governance)**
+Designed a governed AWS data lakehouse using **S3, Lake Formation, Redshift Serverless, and CloudTrail**. Implemented role-based data access, LF-Tag-based governance, and column-level controls for sensitive customer data, with the infrastructure managed through **Terraform**.
+
+**[Serverless E-Commerce Data Lake & ETL Pipeline](https://github.com/mismael04/ecommerce-serverless-pipeline)**
+Developed an automated serverless ETL pipeline using **AWS Step Functions, Lambda, Glue/PySpark, S3, Athena, and SNS**. The pipeline transforms raw e-commerce data into optimized **Parquet** datasets for analytics while providing automated failure notifications.
 
 ### 📫 Let's Connect
-* **LinkedIn:** [linkedin.com/in/muhammad-ismael-uf](https://linkedin.com/in/muhammad-ismael-uf)
+
+**LinkedIn:** [linkedin.com/in/muhammad-ismael-uf](https://linkedin.com/in/muhammad-ismael-uf)
