@@ -11,14 +11,11 @@ I also build and lead technical projects through **Aspyr** and **Medes**, focusi
 **Cloud & Infrastructure**
 
 * AWS: S3, Kinesis, Glue, Redshift, Athena, Step Functions, Lambda, SageMaker, Lake Formation, CloudTrail, IAM, CloudWatch, SNS, SQS, Eventbridge
-* Terraform (Infrastructure as Code)
-* Git, GitHub, GitHub Actions
+* Terraform (Infrastructure as Code), Git, GitHub Actions
 
 **Data Engineering**
 
-* Python, PySpark, SQL
-* PostgreSQL, MySQL, Snowflake
-* dbt Core
+* Python, PySpark, SQL, PostgreSQL, MySQL, Snowflake, dbt Core
 
 ### 🚀 Featured Projects
 
