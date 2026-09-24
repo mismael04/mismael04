@@ -10,7 +10,7 @@ I also build and lead technical projects through **Aspyr** and **Medes**, focusi
 
 **Cloud & Infrastructure**
 
-* AWS: S3, Kinesis Data Firehose, Glue, SageMaker, Lake Formation, Redshift Serverless, Athena, Step Functions, CloudTrail, IAM
+* AWS: S3, Kinesis, Glue, Redshift, Athena, Step Functions, Lambda, SageMaker, Lake Formation, CloudTrail, IAM, CloudWatch, SNS, SQS, Eventbridge
 * Terraform (Infrastructure as Code)
 * Git, GitHub, GitHub Actions
 
